@@ -1,0 +1,15 @@
+c:\users\deepa\source\repos\ConnectDemo\ConnectDemo\bin\Debug\ConnectDemo.exe.config
+c:\users\deepa\source\repos\ConnectDemo\ConnectDemo\bin\Debug\ConnectDemo.exe
+c:\users\deepa\source\repos\ConnectDemo\ConnectDemo\bin\Debug\ConnectDemo.pdb
+c:\users\deepa\source\repos\ConnectDemo\ConnectDemo\obj\Debug\ConnectDemo.csprojAssemblyReference.cache
+c:\users\deepa\source\repos\ConnectDemo\ConnectDemo\obj\Debug\ConnectDemo.frmLogin.resources
+c:\users\deepa\source\repos\ConnectDemo\ConnectDemo\obj\Debug\ConnectDemo.Properties.Resources.resources
+c:\users\deepa\source\repos\ConnectDemo\ConnectDemo\obj\Debug\ConnectDemo.csproj.GenerateResource.cache
+c:\users\deepa\source\repos\ConnectDemo\ConnectDemo\obj\Debug\ConnectDemo.csproj.CoreCompileInputs.cache
+c:\users\deepa\source\repos\ConnectDemo\ConnectDemo\obj\Debug\ConnectDemo.exe
+c:\users\deepa\source\repos\ConnectDemo\ConnectDemo\obj\Debug\ConnectDemo.pdb
+C:\Users\deepa\source\repos\ConnectDemo\ConnectDemo\obj\Debug\ConnectDemo.frmRegister.resources
+C:\Users\deepa\source\repos\ConnectDemo\ConnectDemo\obj\Debug\ConnectDemo.HomePage.resources
+C:\Users\deepa\source\repos\ConnectDemo\ConnectDemo\obj\Debug\ConnectDemo.frmDeleteAcc.resources
+C:\Users\deepa\source\repos\ConnectDemo\ConnectDemo\obj\Debug\ConnectDemo.frmUpdate_Detail.resources
+C:\Users\deepa\source\repos\ConnectDemo\ConnectDemo\obj\Debug\ConnectDemo.frmViewtable.resources
